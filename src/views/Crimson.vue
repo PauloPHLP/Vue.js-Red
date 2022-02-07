@@ -1,8 +1,8 @@
 <template>
-  <ContentWrapper backgroundColor="darkgray">
+  <ContentWrapper backgroundColor="crimson">
     <template v-slot:children>
       <div class="color-container">
-        <h3>Initial page</h3>
+        <h3>Crimson page</h3>
       </div>
     </template>
   </ContentWrapper>
@@ -12,7 +12,7 @@
 import ContentWrapper from '../components/ContentWrapper.vue'
 
 export default {
-  name: 'Home',
+  name: 'Crimson',
   components: {
     ContentWrapper
   }

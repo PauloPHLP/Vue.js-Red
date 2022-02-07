@@ -1,24 +1,34 @@
-# red
+# 🖥️ React.js Red
 
-## Project setup
-```
-npm install
-```
+<h1 align="center">
+  <img src=".github/logo.png" width="200px" />
+</h1>
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## 🔎️ Description
 
-### Compiles and minifies for production
-```
-npm run build
-```
+A simple Vue.js app for switch between colors. This application can also be used on a Micro Front-end context. Click <a href="https://github.com/PauloPHLP/React.js-Host" target="__blank">here</a> to check more details.
 
-### Lints and fixes files
-```
-npm run lint
-```
+## 🛠️ Running the app
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+- Clone this repository by using this command:
+
+  `git clone https://github.com/PauloPHLP/Vue.js-Red.git`
+
+- After clone the repository, go to the project's folder and install the dependencies:
+
+  `npm install`
+
+- Run the project:
+
+  `npm run start`
+
+## 🚀️ Technologies
+
+- Vue.js
+- Node v12.8.0
+
+---
+
+Thank you and good coding 😎️
+
+Made by **<a href="https://paulophlp.github.io/portfolio/" target="__blank">Paulo Lima 🤓️</a>**
