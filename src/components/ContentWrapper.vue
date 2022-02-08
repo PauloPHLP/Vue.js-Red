@@ -2,6 +2,7 @@
   <div class="red-content-wrapper" :style="{ backgroundColor }">
     <div>
       <div>
+        <h3>Vue.js</h3>
         <h1>Welcome to the Red app!</h1>
         <p>Please, select a Red shade</p>
       </div>

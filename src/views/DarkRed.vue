@@ -1,5 +1,5 @@
 <template>
-  <ContentWrapper backgroundColor="dark-red">
+  <ContentWrapper backgroundColor="darkred">
     <template v-slot:children>
       <div class="color-container">
         <h3>Dark Red page</h3>
