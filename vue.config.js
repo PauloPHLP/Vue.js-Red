@@ -3,7 +3,7 @@ const { plugins } = require('./plugins')
 module.exports = {
   lintOnSave: false,
   configureWebpack: {
-    plugins: [...plugins, new VueLoaderPlugin()],
+    plugins: [...plugins],
     devServer: {
       historyApiFallback: true,
       watchOptions: { aggregateTimeout: 300, poll: 1000 },

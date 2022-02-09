@@ -6,7 +6,7 @@ const plugins = [
     customize(entry) {
       return {
         key: `${entry.key.replace('app', 'main')}`,
-        value: `${entry.value}`
+        value: `/${entry.value}`
       }
     },
     transform(assets) {
