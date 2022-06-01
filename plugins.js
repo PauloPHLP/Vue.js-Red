@@ -3,13 +3,13 @@ const WebpackAssetsManifest = require('webpack-assets-manifest')
 const plugins = [
   new WebpackAssetsManifest({
     output: 'asset-manifest.json',
-    customize(entry) {
+    customize (entry) {
       return {
         key: `${entry.key.replace('app', 'main')}`,
         value: `/${entry.value}`
       }
     },
-    transform(assets) {
+    transform (assets) {
       return {
         files: assets
       }

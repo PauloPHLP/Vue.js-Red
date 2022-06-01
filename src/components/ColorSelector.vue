@@ -10,7 +10,7 @@
 export default {
   name: 'ColorSelector',
   methods: {
-    handleOnClick(route) {
+    handleOnClick (route) {
       this.$router.push({ path: route })
     }
   }
