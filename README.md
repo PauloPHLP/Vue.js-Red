@@ -10,7 +10,7 @@ A simple Vue.js app for switch between colors. This application can also be used
 
 ## 🛠️ Running the app
 
-- Clone this repository by typing the following command on your terminal:
+- Clone this repository by using the following command in your terminal:
 
   `git clone https://github.com/PauloPHLP/Vue.js-Red.git`
 
